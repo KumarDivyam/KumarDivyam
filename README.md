@@ -1,6 +1,7 @@
 <h1 align="center">Hello,Internet I am Divyam Kumar</h1>
 <h3 align="center">A Computer Science student from India</h3>
-<img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" height="500" width"500">
+
 - 🌱 I’m currently learning **Flutter,WebDev**
 
 - 👯 I’m looking to collaborate on **Cyber Security,WebDev**
