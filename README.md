@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student from India</h3>
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" height="500" width"700" align="center">
 
-- 🌱 I’m currently learning **Flutter,WebDev**
+- 🌱 I’m currently learning **Flutter,WebDev,CyberSec*
 
 - 👯 I’m looking to collaborate on **Cyber Security,WebDev**
 
