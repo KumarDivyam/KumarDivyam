@@ -1,6 +1,6 @@
 <h1 align="center">Hello,Internet I am Divyam Kumar</h1>
 <h3 align="center">A Computer Science student from India</h3>
-
+<img>
 - 🌱 I’m currently learning **Flutter,WebDev**
 
 - 👯 I’m looking to collaborate on **Cyber Security,WebDev**
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@txm_doom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@txm_doom" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/txm doom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="txm doom" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@divyamk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@divyamk" height="30" width="40" /></a>
+<a href="https://codepen.io/TXM_DOOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@txm_doom" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsg89l8h1bco0WJBzBKjFUQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="txm doom" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/divyamk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@divyamk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
