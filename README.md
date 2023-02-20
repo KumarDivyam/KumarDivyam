@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" height="500" width"700" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumardivyam&label=Profile%20views&color=0e75b6&style=flat" alt="kumardivyam" /> </p>
 
-- 🌱 I’m currently learning **Flutter,WebDev,CyberSec*
+- 🌱 I’m currently learning **CyberSecurity*
 
 - 👯 I’m looking to collaborate on **Cyber Security,WebDev**
 
