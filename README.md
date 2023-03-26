@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity*
 
-- 👯 I’m looking to collaborate on **Cyber Security,WebDev**
+- 👯 I’m looking to collaborate on **Cyber Security**
 
 - 📫 How to reach me **divyamk2025@gmail.com**
 
